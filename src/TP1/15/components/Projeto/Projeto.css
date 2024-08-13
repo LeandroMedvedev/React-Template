@@ -1,0 +1,39 @@
+.conteiner {
+    width: 100%;
+    max-height: 420px;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-top: 1px solid #e7e4df;
+    box-shadow: 4px 0 16px #d2d2d2;
+    position: relative;
+    overflow: hidden;
+    max-width: 960px;
+    flex-flow: row wrap;
+}
+
+.conteiner > div {
+    width: 50%;
+    height: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.conteiner header > div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.conteiner-imagem {
+    align-items: center;
+}
+
+img {
+    max-width: 400px;
+    max-height: 370px;
+}

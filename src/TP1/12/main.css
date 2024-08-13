@@ -3,3 +3,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+h2 {
+  margin-bottom: 30px;
+}

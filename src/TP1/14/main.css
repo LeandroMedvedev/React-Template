@@ -3,3 +3,16 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+    height: 100vh;
+    font-family: monospace;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+}
+
+#root {
+  display: flex;
+  align-items: center;  
+}

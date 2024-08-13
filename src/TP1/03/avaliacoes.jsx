@@ -1,0 +1,1 @@
+export const avaliacoes = [9, 8, 7, 6, 10, 9, 7]

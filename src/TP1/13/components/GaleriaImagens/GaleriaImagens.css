@@ -1,0 +1,28 @@
+body {
+    font-family: monospace;
+    font-size: 1.3rem;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0 30px;
+}
+
+.conteiner-imagens {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100vw;
+    height: 700px;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
+
+figcaption {
+    text-align: center;
+}
